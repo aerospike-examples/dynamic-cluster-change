@@ -1,0 +1,9 @@
+/Users/Tim/Projects/ClusterChange/ClusterChange/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tim/Projects/ClusterChange/ClusterChange/bin/Debug/ClusterChange.exe.config
+/Users/Tim/Projects/ClusterChange/ClusterChange/bin/Debug/ClusterChange.exe.mdb
+/Users/Tim/Projects/ClusterChange/ClusterChange/bin/Debug/ClusterChange.exe
+/Users/Tim/Projects/ClusterChange/ClusterChange/obj/Debug/ClusterChange.exe
+/Users/Tim/Projects/ClusterChange/ClusterChange/obj/Debug/ClusterChange.exe.mdb
+/Users/Tim/Projects/ClusterChange/ClusterChange/bin/Debug/AerospikeClient.dll
+/Users/Tim/Projects/ClusterChange/ClusterChange/bin/Debug/Neo.Lua.dll
+/Users/Tim/Projects/ClusterChange/ClusterChange/bin/Debug/Neo.Lua.Desktop.dll
